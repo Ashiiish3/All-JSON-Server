@@ -4,14 +4,14 @@
       "image": "https://m.media-amazon.com/images/I/71u2XOFXAIL._AC_UL320_.jpg",
       "title": "Shoes for Men",
       "category": "Shoes",
-      "price": "630",
+      "price": 630,
       "id": "71e9"
     },
     {
       "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
       "title": "SandDisk Pendrive 64GB Black Color",
       "category": "Electronics",
-      "price": "650",
+      "price": 650,
       "id": "53f7"
     },
     {
@@ -19,20 +19,20 @@
       "image": "https://m.media-amazon.com/images/I/81nMsYgIHdL._AC_UL320_.jpg",
       "title": "Redmi 13C 5G",
       "category": "Electronics",
-      "price": "19999"
+      "price": 19999
     },
     {
       "id": "b80c",
       "image": "https://m.media-amazon.com/images/I/71fqj6Il-5L._SY741_.jpg",
       "title": "UHUD Procion Printed Sleeveless Top with Pleats",
       "category": "Clothes",
-      "price": "430"
+      "price": 430
     },
     {
       "image": "https://m.media-amazon.com/images/I/51GOpp8rAJL._AC_UL320_.jpg",
       "title": "Shoes for men",
       "category": "Shoes",
-      "price": "666",
+      "price": 666,
       "id": "e51a"
     },
     {
@@ -45,7 +45,7 @@
     {
       "id": "16",
       "image": "https://m.media-amazon.com/images/I/617QlJ62nFL._AC_UL480_FMwebp_QL65_.jpg",
-      "price": "57",
+      "price": 57,
       "category": "sport",
       "title": "Paradyes"
     },
@@ -54,35 +54,35 @@
       "title": "Falhari",
       "image": "https://static.wixstatic.com/media/5f24cf_a17220104bb5486d943ad3acd5808e90~mv2.png/v1/fill/w_506,h_314,al_c,q_80,usm_0.66_1.00_0.01/5f24cf_a17220104bb5486d943ad3acd5808e90~mv2.png",
       "category": "Food",
-      "price": "260"
+      "price": 260
     },
     {
       "id": "44ba",
       "title": "Food pack for dog",
       "image": "https://m.media-amazon.com/images/I/716muWbBS5L._SX522_.jpg",
       "category": "Food",
-      "price": "50"
+      "price": 50
     },
     {
       "id": "743a",
       "title": "Cat food ",
       "image": "https://m.media-amazon.com/images/I/51N0EUgEVyL._SX300_SY300_QL70_FMwebp_.jpg",
       "category": "Food",
-      "price": "50000"
+      "price": 50000
     },
     {
       "id": "db89",
       "title": "Best Laptop",
       "image": "https://m.media-amazon.com/images/I/31uLEZHhMDL._SX300_SY300_QL70_FMwebp_.jpg",
       "category": "Electronics",
-      "price": "1520"
+      "price": 1520
     },
     {
       "id": "c3b0",
       "title": "Laptop",
       "image": "https://m.media-amazon.com/images/I/41uN8gIf94L._SY300_SX300_QL70_FMwebp_.jpg",
       "category": "Electronics",
-      "price": "144"
+      "price": 144
     },
     {
       "id": "3c2d",
@@ -90,21 +90,21 @@
       "image": "https://m.media-amazon.com/images/I/6181hUfP0uL._SY695_.jpg",
       "category": "Shoes",
       "founder": "Kritika Sharma",
-      "price": "23650"
+      "price": 23650
     },
     {
       "title": "Milk Cake",
       "image": "https://mylaporeganapathys.com/wp-content/uploads/2022/12/Ajmer-Cake-500x357.jpg",
       "category": "Food",
       "id": "9d93",
-      "price": "120"
+      "price": 120
     },
     {
       "id": "13",
       "title": "Falhari",
       "image": "https://static.wixstatic.com/media/5f24cf_a17220104bb5486d943ad3acd5808e90~mv2.png/v1/fill/w_506,h_314,al_c,q_80,usm_0.66_1.00_0.01/5f24cf_a17220104bb5486d943ad3acd5808e90~mv2.png",
       "category": "Food",
-      "price": "26"
+      "price": 26
     },
     {
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYOkeAS5PgCBISOPRp_mZJuIxJ74IyCAlP_A&usqp=CAU",
@@ -115,7 +115,7 @@
     },
     {
       "image": "https://m.media-amazon.com/images/I/617QlJ62nFL._AC_UL480_FMwebp_QL65_.jpg",
-      "price": "57",
+      "price": 57,
       "category": "sport",
       "title": "Paradyes",
       "id": "16"
@@ -132,125 +132,124 @@
       "title": "aala",
       "image": "https://i.pinimg.com/736x/83/fb/72/83fb722ec6a28bb416207c4d4cc91e4d.jpg",
       "category": "Electronics",
-      "price": "50"
+      "price": 50
     },
     {
       "id": "p1",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/j/q/2/edge-40-neo-payj0001in-motorola-original-imagtkf5ewhafvhh.jpeg?q=70",
       "title": "Motorola Edge 40 Neo (Soothing Sea, 128 GB)",
-      "price": "20999",
+      "price": 20999,
       "category": "Electronics"
     },
     {
       "id": "p2",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/5/y/8/-original-imagtt4mhqrzjs9r.jpeg?q=70",
       "title": "vivo T2 Pro 5G (Dune Gold, 256 GB)",
-      "price": "24999",
+      "price": 24999,
       "category": "Electronics"
     },
     {
       "id": "p3",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/d/h/q/m6-pro-5g-mzb0eprin-poco-original-imags3e7vewsafst.jpeg?q=70",
       "title": "POCO M6 Pro 5G (Power Black, 128 GB)",
-      "price": "9999",
+      "price": 9999,
       "category": "Electronics"
     },
     {
       "id": "p3",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/u/v/h/-original-imagxaqtzmqgtfen.jpeg?q=70",
       "title": "REDMI 12 5G (Moonstone Silver, 128 GB)",
-      "price": "11999",
+      "price": 11999,
       "category": "Electronics"
     },
     {
       "id": "p4",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/p/r/q/x6-neo-5g-mzb0ggrin-poco-original-imagyxngnrhzx96z.jpeg?q=70",
       "title": "POCO X6 Neo 5G (Horizon Blue, 128 GB)",
-      "price": "14999",
+      "price": 14999,
       "category": "Electronics"
     },
     {
       "id": "p5",
       "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Ultima_Chronos.webp?v=1701692614",
       "title": "Smartwatches",
-      "price": "2300",
+      "price": 2300,
       "category": "Electronics"
     },
     {
       "id": "p6",
       "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AD_161.jpg?v=1686297917",
       "title": "Wireless Earbuds",
-      "price": "1529",
+      "price": 1529,
       "category": "Electronics"
     },
     {
       "id": "p7",
       "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/R255Pro_-FI_Black01_1300x.png?v=1713177293",
       "title": "Neckbands",
-      "price": "1359",
+      "price": 1359,
       "category": "Electronics"
     },
     {
       "id": "p8",
-"image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Stone_350.jpg?v=1701847157",
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Stone_350.jpg?v=1701847157",
       "title": "Wireless Speakers",
-      "price": "1900",
+      "price": 1900,
       "category": "Electronics"
     },
     {
       "id": "p9",
       "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Stone_190_f2334adf-d4a6-4a68-9bcc-419474079896.jpg?v=1702027041",
       "title": "Wireless Speakers",
-      "price": "1600",
+      "price": 1600,
       "category": "Electronics"
     },
     {
       "id": "p10",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/d/h/q/m6-pro-5g-mzb0eprin-poco-original-imags3e7vewsafst.jpeg?q=70",
-          "title": "POCO M6 Pro 5G (Power Black, 128 GB)",
-          "price": "9999",
+      "title": "POCO M6 Pro 5G (Power Black, 128 GB)",
+      "price": 9999,
       "category": "Electronics"
     },
     {
       "id": "p11",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/d/s/8/-original-imagmkjf9wqjurgf.jpeg?q=70",
-          "title": "POCO X5 Pro 5G (Yellow, 128 GB)",
-          "price": "18677",
+      "title": "POCO X5 Pro 5G (Yellow, 128 GB)",
+      "price": 18677,
       "category": "Electronics"
     },
     {
       "id": "p12",
       "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/q/y/o/hot-40i-x6528-infinix-original-imagxquujpnngqgz.jpeg?q=70",
-          "title": "Infinix HOT 40i (Horizon Gold, 256 GB)",
-          "price": "10990",
+      "title": "Infinix HOT 40i (Horizon Gold, 256 GB)",
+      "price": 10990,
       "category": "Electronics"
     },
     {
-
       "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/6/e/a/-original-imagxq8pxgqw5kgp.jpeg?q=70",
-          "title": "Pacer Fire IDP Sneakers For Men",
-          "price": "7140",
-          "category": "Shoes",
+      "title": "Pacer Fire IDP Sneakers For Men",
+      "price": 7140,
+      "category": "Shoes",
       "id": "p13"
     },
     {
       "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/n/q/v/-original-imagxe2g4kfkzwgt.jpeg?q=70",
       "title": "Puma Smash V2 Buck Sneakers For Men",
       "category": "Shoes",
-      "price": "630",
+      "price": 630,
       "id": "p14"
     },
     {
       "image": "https://rukminim2.flixcart.com/image/612/612/l4d2ljk0/t-shirt/u/m/q/xl-vs-cp-fs-combo-grey-yellow-addiz-original-imagf9t8fqrgggmq.jpeg?q=70",
-          "title": "Men Solid Round Neck Polyester Grey T-Shirt",
-          "price": "224",
+      "title": "Men Solid Round Neck Polyester Grey T-Shirt",
+      "price": 224,
       "category": "Clothes",
       "id": "p15"
     },
     {
       "image": "https://rukminim2.flixcart.com/image/612/612/k0zlsi80/t-shirt/3/7/r/s-12166630-jack-jones-original-imafkz6rqexja3wy.jpeg?q=70",
-          "title": "Men Printed Round Neck Pure Cotton Brown T-Shirt",
-          "price": "1168",
+      "title": "Men Printed Round Neck Pure Cotton Brown T-Shirt",
+      "price": 1168,
       "category": "Clothes",
       "id": "p16"
     },
@@ -258,61 +257,61 @@
       "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/n/q/v/-original-imagxe2g4kfkzwgt.jpeg?q=70",
       "title": "Puma Smash V2 Buck Sneakers For Men",
       "category": "Shoes",
-      "price": "630",
+      "price": 630,
       "id": "p17"
     },
     {
       "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/refrigerator-new/h/y/t/-original-imagwnjnez3fhghk.jpeg?q=70",
       "title": "SAMSUNG 183 L Direct Cool Single Door 3 Star Refrigerat...",
-      "price": "14980",
+      "price": 14980,
       "category": "Electronics",
       "id": "p18"
     },
     {
       "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/refrigerator-new/t/6/t/-original-imagy3pytsfrzdfe.jpeg?q=70",
-          "title": "SAMSUNG 215 L Direct Cool Single Door 4 Star Refrigerat...",
-          "price": "19990",
-          "category": "Electronics",
+      "title": "SAMSUNG 215 L Direct Cool Single Door 4 Star Refrigerat...",
+      "price": 19990,
+      "category": "Electronics",
       "id": "p19"
     },
     {
       "image": "https://rukminim2.flixcart.com/image/612/612/kvfkivk0/hammock-swing/f/9/a/14-2-swing-chair-patiofy-original-imag8cdmnjz6gvhr.jpeg?q=70",
       "title": "Patiofy Chair/ Jhula Indoor/ for Home/for Adults Outdoo...",
-      "price": "933",
+      "price": 933,
       "category": "furniture"
     },
     {
       "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/hammock-swing/j/c/m/58-42-0-4-soft-cotton-hammock-hanging-swing-chair-for-indoor-original-imagkswbgmq3tjhh.jpeg?q=70",
       "title": "Curio Centre Soft Hanging Swing Chair/for Adult/for Hom...",
-      "price": "1099",
+      "price": 1099,
       "category": "furniture",
       "id": "p20"
     },
     {
       "image": "https://rukminim2.flixcart.com/image/612/612/kwjkuq80/hammock-swing/i/y/l/24-0-5-make-in-india-c-shape-premium-swing-with-polyester-ropes-original-imag97y7gduutrga.jpeg?q=70",
       "title": "Curio Centre Double Seater Swing Jhula for Home, Swings...",
-      "price": "2499",
+      "price": 2499,
       "category": "furniture",
       "id": "p21"
     },
     {
       "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/hammock-swing/x/n/o/-original-imagtetchshfgyhc.jpeg?q=70",
       "title": "Furniture kart Luxury Hammock with Stand Swing Chair fo...",
-      "price": "8040",
+      "price": 8040,
       "category": "furniture",
       "id": "p22"
     },
     {
       "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/hammock-swing/4/d/n/107-40-spy-564554111-spyder-home-decore-original-imaggqg7cdcfhyrr.jpeg?q=70",
       "title": "SPYDER HOME DECORE Double Seater Swing Chair With Stand...",
-      "price": "16362",
+      "price": 16362,
       "category": "furniture",
       "id": "p23"
     },
     {
       "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/hammock-swing/b/u/v/46-4-smart-comfort-brown-arvabil-original-imagy9s7uzy6yzyt.jpeg?q=70",
       "title": "Arvabil Smart Comfort Swing for Adults/Hammock Swing/Sw...",
-      "price": "949",
+      "price": 949,
       "category": "furniture",
       "id": "p24"
     }
